@@ -100,7 +100,7 @@ a.zocial {
 .zocial.disqus:before {content: "\E030";}
 .zocial.dribbble:before {content: "\E023";}
 .zocial.dropbox:before {content: "\E043"; color: #1f75cc;}
-.zocial.email:before {content: "\E03C"; color: #312c2a;}
+.zocial.email:before {content: "\E03C";}
 .zocial.eventasaurus:before {content: "\E055"; color: #9de428;}
 .zocial.eventbrite:before {content: "\E05B";}
 .zocial.eventful:before {content: "\E006"; color: #0066CC;}
@@ -157,7 +157,7 @@ a.zocial {
 .zocial.twitter:before {content: "\E033";}
 .zocial.viadeo:before {content: "\E027"; color: #f59b20;}
 .zocial.vimeo:before {content: "\E035";}
-.zocial.weibo:before {content: "\E029"; color: #e6162d;}
+.zocial.weibo:before {content: "\E029";}
 .zocial.wikipedia:before {content: "\E00B";}
 .zocial.windows:before {content: "\E036";}
 .zocial.xing:before {content: "\E037"}

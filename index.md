@@ -5,16 +5,13 @@ tagline: 广博、简易 —— 学习之路
 ---
 {% include JB/setup %}
 
-    
-## Sample Posts
+#找博主点右上角
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+主页暂时就这个鸟样
 
-    $ rm -rf _posts/core-samples
+没办法，搞了一天，好累。先hold住
 
-Here's a sample "posts list".
-
+##文章列表
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
