@@ -3,7 +3,7 @@ layout: post
 title: 第一篇日志
 category : lessons
 tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+tags : [介绍, 入门, jekyll, 教程]
 ---
 {% include JB/setup %}
 
