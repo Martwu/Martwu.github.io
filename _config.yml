@@ -14,7 +14,9 @@ tagline: Site Tagline
 author :
   name : Martin Wu
   email : martin.wu2dream@gmail.com
+  twitter: Martin2Black
   github : Martwu
+  weibo: 376391554
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
